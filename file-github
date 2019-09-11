@@ -2,8 +2,11 @@ This file was created on github on a new branch 'branch-github', but it is avail
 
 This line is a local change.
 
-
 int master_func(int x, int y){
  print(x + y);
  return x + y;
+
+void side_1_func(string const & phrase){
+ print(phrase);
+ return;
 }
