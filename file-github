@@ -1,3 +1,9 @@
 This file was created on github on a new branch 'branch-github', but it is available on the origin directly after a commit!
 
 This line is a local change.
+
+
+int master_func(int x, int y){
+ print(x + y);
+ return x + y;
+}
