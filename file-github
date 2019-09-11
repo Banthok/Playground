@@ -1,3 +1,8 @@
 This file was created on github on a new branch 'branch-github', but it is available on the origin directly after a commit!
 
 This line is a local change.
+
+void side_1_func(string const & phrase){
+ print(phrase);
+ return;
+}
